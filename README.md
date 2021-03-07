@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Superv1sor
 - 👀 I’m interested in your company
-- 🌱 I’m currently learning anything new
-- 💞️ I’m looking to collaborate on your platform
+- 🌱 I’m currently learning something new
+- 💞️ I’m looking to collaborate on your project
 - 📫 How to reach me: on LinkedIn?
 
 <!---
